@@ -20,6 +20,7 @@ fun CityView() {
         .fillMaxSize()
         .padding(15.dp),
         horizontalAlignment = Alignment.CenterHorizontally,
+        verticalArrangement= Arrangement.Center,
 
     ) {
 
